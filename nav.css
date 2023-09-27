@@ -1,0 +1,142 @@
+.body{
+    background-color: rgb(222, 220, 220);
+}
+
+.div{
+    height: 45px;
+    width: 1450px;
+    border: 2px solid;
+    background-color: black;
+    box-shadow: 2px 3px 4px gray;
+    position: relative;
+    top: 100px;
+    display: flex;
+}
+.logo{
+    color: white;
+    padding-left: 50px;
+    padding-top: 13px;
+}
+.ser{
+    color: white;
+    padding-left: 500px;
+    padding-top: 13px;
+    
+}
+.pro{
+    color: white;
+    padding-left: 50px;
+    padding-top: 13px;
+    
+}
+.abo{
+    color: white;
+    padding-left: 50px;
+    padding-top: 13px;
+    
+}
+
+
+.btn{
+    margin-left: 400px;
+    width: 80px;
+    height: 30px;
+    margin-top: 8px;
+    background-color: rgb(27, 134, 134);
+    border-radius: 20px;
+    color: white;
+}
+
+
+
+
+.div2{
+    height: 45px;
+    width: 1450px;
+    border: 2px solid;
+    box-shadow: 2px 3px 4px gray;
+    background-color: black;
+    position: relative;
+    top: 200px;
+    display: flex;
+}
+.logo2{
+    color: white;
+    padding-left: 890px;
+    padding-top: 13px;
+}
+.ser2{
+    color: white;
+    padding-left: 50px;
+    padding-top: 13px;
+    
+}
+.pro2{
+    color: white;
+    padding-left: 50px;
+    padding-top: 13px;
+    
+}
+.abo2{
+    color: white;
+    padding-left: 50px;
+    padding-top: 13px;
+    
+}
+
+
+.btn2{
+    margin-left: 30px;
+    width: 80px;
+    height: 30px;
+    margin-top: 8px;
+    background-color: rgb(27, 134, 134);
+    border-radius: 20px;
+    color: white;
+}
+
+.div3{
+    height: 45px;
+    width: 1450px;
+    border: 2px solid;
+    box-shadow: 2px 3px 4px gray;
+    background-color: black;
+    position: relative;
+    top: 300px;
+    display: flex;
+}
+
+.logo3{
+    color: white;
+    padding-left: 50px;
+    padding-top: 13px;
+}
+.ser3{
+    color: white;
+    padding-left: 890px;
+    padding-top: 13px;
+    
+}
+.pro3{
+    color: white;
+    padding-left: 50px;
+    padding-top: 13px;
+    
+}
+.abo3{
+    color: white;
+    padding-left: 50px;
+    padding-top: 13px;
+    
+}
+
+
+.btn3{
+    margin-left: 400px;
+    width: 80px;
+    height: 30px;
+    margin-top: 8px;
+    background-color: rgb(27, 134, 134);
+    border-radius: 20px;
+    color: white;
+}
